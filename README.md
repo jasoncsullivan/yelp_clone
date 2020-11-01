@@ -15,20 +15,18 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [ ] User sees a descriptive error message if internet is not available
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] User sees a descriptive error message if internet is not available
+* [x] App refreshes when internet becomes available
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![](demo.gif)
 
 ## Notes
 
-None.
+TODO: Add a loading image while connectivity is established so we're not looking at a blank screen.
 
 ## License
 
