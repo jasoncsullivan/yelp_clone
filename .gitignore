@@ -76,4 +76,4 @@ local.properties
 buildSrcTmp/
 distTmp/
 outTmp/
-*/Env.kt*
+*Env.kt
